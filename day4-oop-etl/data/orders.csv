@@ -1,0 +1,26 @@
+order_id,order_date,customer_email,city,product_sku,quantity,unit_price_kes,status
+ORD-7001,2026-10-14,wanjiru.k@example.co.ke,Nairobi,SKU-TEA-250,4,185,DELIVERED
+ORD-7002,2026-10-14,otieno.b@example.co.ke,Kisumu,SKU-RICE-5KG,1,1150,DELIVERED
+ORD-7003,2026-10-14,fatma.a@example.co.ke,Mombasa,SKU-OIL-3L,2,1020,SHIPPED
+ORD-7004,2026-10-14,kamau.j@example.co.ke,Nairobi,SKU-MILK-500,12,65,DELIVERED
+ORD-7005,2026-10-15,chebet.l@example.co.ke,Eldoret,SKU-UNGA-2KG,3,210,DELIVERED
+ORD-7006,2026-10-15,,Nakuru,SKU-SUGAR-2KG,2,330,PENDING
+ORD-7007,2026-10-15,mwangi.p@example.co.ke,Nairobi,SKU-COFFEE-1KG,1,520,DELIVERED
+ORD-7008,2026-10-15,achieng.r@example.co.ke,kisumu,SKU-TEA-250,2,185,CANCELLED
+ORD-7009,2026-10-15,hassan.m@example.co.ke,Mombasa,SKU-RICE-5KG,abc,1150,SHIPPED
+ORD-7010,2026-10-16,njeri.w@example.co.ke,Nairobi,SKU-OIL-3L,1,1020,DELIVERED
+ORD-7011,2026-10-16,kiprop.d@example.co.ke,Eldoret,SKU-MILK-500,6,65,DELIVERED
+ORD-7012,2026-10-16,wanjiru.k@example.co.ke,Nairobi,SKU-UNGA-2KG,2,210,DELIVERED
+ORD-7013,2026-10-16,otieno.b@example.co.ke,Kisumu,SKU-SUGAR-2KG,1,-330,DELIVERED
+ORD-7014,2026-10-16,fatma.a@example.co.ke, Mombasa ,SKU-COFFEE-1KG,2,520,SHIPPED
+ORD-7015,2026-10-17,kamau.j@example.co.ke,Nairobi,SKU-TEA-250,3,185,DELIVERED
+ORD-7016,2026-10-17,not-an-email,Nakuru,SKU-RICE-5KG,1,1150,PENDING
+ORD-7017,2026-10-17,chebet.l@example.co.ke,Eldoret,SKU-OIL-3L,1,1020,DELIVERED
+ORD-7018,2026-10-17,mwangi.p@example.co.ke,NAIROBI,SKU-MILK-500,10,65,DELIVERED
+ORD-7019,2026-10-17,achieng.r@example.co.ke,Kisumu,SKU-UNGA-2KG,5,210,SHIPPED
+ORD-7004,2026-10-14,kamau.j@example.co.ke,Nairobi,SKU-MILK-500,12,65,DELIVERED
+ORD-7020,2026-10-18,hassan.m@example.co.ke,Mombasa,SKU-SUGAR-2KG,2,330,DELIVERED
+ORD-7021,2026-10-18,njeri.w@example.co.ke,Nairobi,SKU-COFFEE-1KG,1,520,PENDING
+ORD-7022,2026-10-18,kiprop.d@example.co.ke,Eldoret,,2,185,DELIVERED
+ORD-7023,2026-10-18,wanjiru.k@example.co.ke,Nairobi,SKU-RICE-5KG,1,"1,150",DELIVERED
+ORD-7024,2026-10-18,otieno.b@example.co.ke,Kisumu,SKU-OIL-3L,1,1020,DELIVERED

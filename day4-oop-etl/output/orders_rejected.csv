@@ -1,0 +1,6 @@
+order_id,order_date,customer_email,city,product_sku,quantity,unit_price_kes,status,reasons
+ORD-7006,2026-10-15,,Nakuru,SKU-SUGAR-2KG,2,330,PENDING,missing customer_email
+ORD-7009,2026-10-15,hassan.m@example.co.ke,Mombasa,SKU-RICE-5KG,abc,1150,SHIPPED,"Invalid quantity, it must be a number."
+ORD-7013,2026-10-16,otieno.b@example.co.ke,Kisumu,SKU-SUGAR-2KG,1,-330,DELIVERED,Price must be positive.
+ORD-7016,2026-10-17,not-an-email,Nakuru,SKU-RICE-5KG,1,1150,PENDING,Invalid email format.
+ORD-7004,2026-10-14,kamau.j@example.co.ke,Nairobi,SKU-MILK-500,12,65,DELIVERED,duplicate order_id 'ORD-7004'
