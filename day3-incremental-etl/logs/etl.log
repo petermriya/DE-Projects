@@ -1,0 +1,20 @@
+2026-11-03 14:07:51 INFO  Run started
+2026-11-03 14:07:51 INFO  Existing rows loaded: 27
+2026-11-03 14:07:51 INFO  Batch BATCH-2026-10-21-01: 17 records read
+2026-11-03 14:07:51 INFO  New: 0 | Updated: 0 | Duplicates: 13 | Invalid: 4
+2026-11-03 14:07:51 WARNING Invalid record MP-50008: older version (updated_at is not newer)
+2026-11-03 14:07:51 WARNING Invalid record None: missing transaction_id
+2026-11-03 14:07:51 WARNING Invalid record MP-50021: duplicate ID within batch
+2026-11-03 14:07:51 WARNING Invalid record MP-50026: negative amount
+2026-11-03 14:07:51 INFO  Rows after load: 27
+2026-11-03 14:07:51 INFO  Run finished in 0.003s
+2026-11-03 14:07:56 INFO  Run started
+2026-11-03 14:07:56 INFO  Existing rows loaded: 27
+2026-11-03 14:07:56 INFO  Batch BATCH-2026-10-21-01 already processed - skipping
+2026-11-03 14:07:56 INFO  Rows after load: 27
+2026-11-03 14:07:56 INFO  Run finished in 0.002s
+2026-11-03 14:08:02 INFO  Run started
+2026-11-03 14:08:02 INFO  Existing rows loaded: 27
+2026-11-03 14:08:02 INFO  Batch BATCH-2026-10-21-01 already processed - skipping
+2026-11-03 14:08:02 INFO  Rows after load: 27
+2026-11-03 14:08:02 INFO  Run finished in 0.002s
