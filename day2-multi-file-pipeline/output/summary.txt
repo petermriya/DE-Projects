@@ -1,0 +1,12 @@
+=== Processing summary ===
+Files discovered:        3
+Files processed:         3
+Files with column issues:0
+Rows read:               43
+Rows accepted:           34
+Rows rejected:           9
+  - missing values:      4
+  - invalid numbers:     2
+  - duplicate IDs:       3
+Total revenue (KES):     22,775
+Run finished at:         2026-11-04T22:34:37.338992
